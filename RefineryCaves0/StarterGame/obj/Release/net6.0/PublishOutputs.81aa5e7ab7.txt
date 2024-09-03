@@ -1,0 +1,5 @@
+/Users/willyamos/Projects/RefineryCaves0/RefineryCaves0
+/Users/willyamos/Projects/RefineryCaves0/RefineryCaves0.dll
+/Users/willyamos/Projects/RefineryCaves0/RefineryCaves0.deps.json
+/Users/willyamos/Projects/RefineryCaves0/RefineryCaves0.runtimeconfig.json
+/Users/willyamos/Projects/RefineryCaves0/RefineryCaves0.pdb

@@ -1,0 +1,90 @@
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.csproj.AssemblyReference.cache
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/jordanmcwilliams/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
+/Users/willyamos/Projects/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/willyamos/Projects/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/willyamos/Projects/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/willyamos/Projects/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/willyamos/Projects/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.csproj.AssemblyReference.cache
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/willyamos/Projects/StarterGame/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.csproj.AssemblyReference.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 2/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.csproj.AssemblyReference.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 3/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.csproj.AssemblyReference.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 4/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.csproj.AssemblyReference.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/jordanmcwilliams/Downloads/StarterGame 6/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
