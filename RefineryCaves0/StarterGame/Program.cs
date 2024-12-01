@@ -3,10 +3,10 @@
 namespace StarterGame
 {
     /*
-     * @author yooo walker williams and jordan mcwilliams made this SHIT!!! 
-     * you cant tell us it dont fuck
+     * @author yooo walker williams and jordan mcwilliams made this!!!
      * 
-     * it took us like 60 hours of work and it still is put together like shit
+     * 
+     * it took us like 60 hours of work and it still is put together not too great
      * (thats walkers fault tbh)
      * but it runs and what aint broke why fix ykyk
      * enjoy
